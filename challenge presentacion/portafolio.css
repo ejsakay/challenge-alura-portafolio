@@ -1,0 +1,105 @@
+
+body {
+    font-family: 'Raleway', sans-serif;
+    background: linear-gradient(#fefefe,#3ccedc);
+}
+.titulo-principal{
+    text-align:left;
+    background-color:#ddf3f4;
+    margin: 0px;
+    padding: 100px;
+    font-size: 22px;
+}
+.caja{
+    background-color: #ddf3f4;
+    text-align:right;
+    width: 800px;
+    margin: 0px 40px 0px 0px ;
+    
+}
+  
+ nav{
+     position: absolute;
+     top: 110px;
+     right: 0px;
+ }
+ nav li{
+     display: inline;
+     margin: 0 0 0 25px;
+
+ }
+ nav a{;
+     color: #000000 ;
+     font-weight: bold;
+     font-size: 22px;
+     text-decoration: none;
+ }
+ nav a:hover{
+     color: #1dbcb6;
+ }
+
+.contenedor {
+    width: 100%;
+    overflow: auto;
+}
+.saludo {
+    font-weight:bold;
+    font-size: 22px;
+    margin: 50px 100px 10px 0px;
+    display:list-item
+    width: 20%;
+    float: left;
+    text-align: justify;
+
+}
+
+.Descripcion{
+    font-weight:bold;
+    font-size:15px;
+    margin: 50px 0px 0px 30px;
+    text-align: justify;
+    
+}
+
+.imagenperfil{
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    float: right;
+    margin: 15px 300PX 40px 50px;
+    box-shadow: 10px 10px 20px 15px #58b0c6
+     
+}    
+.redes{
+        margin: 80px 0px 0px 110px;
+}
+
+
+.redes a{
+    margin: 20px ;
+    position: relative;
+    top: 0px;
+    right: 10px;
+    color: #000000 ;
+    font-weight:;
+    font-size: 22px;
+    text-align: left;
+    text-decoration: none;
+    padding: 5px;
+    display:inline;
+}
+.redes a:hover{
+    color: #40a792;
+}
+
+.perfil{
+    font-weight:bold;
+    font-size:15px;
+    margin: 70px 10px 40px 30px;
+    text-align:justify;
+}
+
+
+
+ 
+ 
